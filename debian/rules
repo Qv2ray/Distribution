@@ -9,5 +9,5 @@ override_dh_auto_clean:
 	rm -rfv libs/gen
 
 override_dh_auto_configure:
-	./tools/grpc_gen.sh
+	./tools/unix-generate-api.sh
 	dh_auto_configure -- CONFIG+=no_increase_build_number QMAKE_CFLAGS_ISYSTEM=-I PREFIX=/usr
