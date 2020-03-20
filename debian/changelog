@@ -1,35 +1,5 @@
-qv2ray (2.0.1-1) unstable; urgency=medium
+qv2ray (2.2.3-1) unstable; urgency=medium
 
-  * Bump version to v2.0.1
+  * Initial release
 
- -- Guobang Bi <ymshenyu@gmail.com>  Mon, 03 Feb 2020 18:00:13 +0800
-
-qv2ray (2.0.0-1) unstable; urgency=medium
-
-  * Bump version to v2.0.0
-
- -- Guobang Bi <ymshenyu@gmail.com>  Sat, 25 Jan 2020 09:04:59 +0800
-
-qv2ray (1.99.7-1) unstable; urgency=medium
-
-  * Bump version to v1.99.7
-
- -- Guobang Bi <ymshenyu@gmail.com>  Sat, 25 Jan 2020 09:04:37 +0800
-
-qv2ray (1.99.6-1) unstable; urgency=medium
-
-  * Bump version to v1.99.6
-
- -- Guobang Bi <ymshenyu@gmail.com>  Sat, 25 Jan 2020 09:04:04 +0800
-
-qv2ray (1.99.5-1) unstable; urgency=medium
-
-  * Bump version to v1.99.5
-
- -- Guobang Bi <ymshenyu@gmail.com>  Thu, 16 Jan 2020 09:12:06 +0800
-
-qv2ray (1.99.4-1) unstable; urgency=medium
-
-  * Bump version to v1.99.4
-
- -- Guobang Bi <ymshenyu@gmail.com>  Tue, 31 Dec 2019 02:07:55 +0000
+ -- Guobang Bi <ymshenyu@gmail.com>  Fri, 20 Mar 2020 08:47:53 +0800
